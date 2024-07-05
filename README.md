@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Conecta conmigo!</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nazareno moreno" target="blank">
+  <a href="https://www.linkedin.com/in/nazareno-moreno-267b96172/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazareno moreno" height="30" width="40" />
   </a>
 </p>

@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hola, me llamo Nazareno Moreno</h1>
 <h3 align="center">I am a student of Information Systems Engineering, passionate about programming and constantly learning new technologies.</h3>
 
-<p</p>
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-<p</p>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

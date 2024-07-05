@@ -37,9 +37,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Conectá conmigo!</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nazareno-moreno-267b96172/" target="_blank">
-   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" /> alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/nazareno-moreno-267b96172/" target="blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>height="30" width="40" />
+  </a>
 </p>
+
 
 
 

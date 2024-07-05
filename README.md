@@ -4,7 +4,7 @@
 nazarenomoreno/nazarenomoreno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hola, me llamo Nazareno Moreno</h1>
+<h1 align="center">Hola!, me llamo Nazareno Moreno</h1>
 <h3 align="center">Soy un estudiante de Ingeniería en Sistemas de Información, apasionado por la programación y el constante aprendizaje de nuevas tecnologías.</h3>
 
 <br><br>

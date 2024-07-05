@@ -7,6 +7,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hola!, me llamo Nazareno Moreno</h1>
 <h3 align="center">Soy un estudiante de Ingeniería en Sistemas de Información, apasionado por la programación y el constante aprendizaje de nuevas tecnologías.</h3>
 
+
+<h2 align="left">Sobre mi</h2>
+<h3 align="left">Soy una persona proactiva, interesada en aprender, y siempre abierto a posibilidades de trabajos y proyectos</h3>
 <br><br>
 
 <h3 align="left">

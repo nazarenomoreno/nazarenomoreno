@@ -38,11 +38,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Conectá conmigo!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nazareno-moreno-267b96172/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/nazareno-moreno-267b96172/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" />
-  </a>
+   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" /> alt="LinkedIn" height="30" width="40" />
 </p>
 
 

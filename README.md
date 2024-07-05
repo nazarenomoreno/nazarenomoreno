@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2 align="left">Sobre mi</h2>
-<h3 align="left">Soy una persona proactiva, interesada en aprender, y siempre abierto a posibilidades de trabajos y proyectos</h3>
+<h3 align="left">Soy una persona proactiva, interesada en aprender, y siempre abierto a posibilidades de trabajos y proyectos.</h3>
 <br><br>
 
 <h3 align="left">

@@ -4,12 +4,12 @@
 nazarenomoreno/nazarenomoreno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hola, me llamo Nazareno Moreno</h1>
-<h3 align="center">I am a student of Information Systems Engineering, passionate about programming and constantly learning new technologies.</h3>
+<h1 align="center">Nazareno Moreno</h1>
+<h3 align="center">Soy un estudiante de Ingeniería en Sistemas de Información, apasionado por la programación y el constante aprendizaje de nuevas tecnologías.</h3>
 
 <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo!</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nazareno moreno" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazareno moreno" height="30" width="40" />

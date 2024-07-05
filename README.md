@@ -10,10 +10,11 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <h3 align="left">
-  </picture>
-    Lenguajes y Herramientas
    <picture>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+  </picture>
+    Lenguajes y Herramientas
+   
 </h3>
 
 <p align="left"> 

@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">
    <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+    <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="50px">
   </picture>
     Lenguajes y Herramientas
    

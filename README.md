@@ -5,7 +5,7 @@ nazarenomoreno/nazarenomoreno is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hola, soy Nazareno Moreno
-Soy un estudiante de Ingeniería en Sistemas de Información, apasionado por la programación y el constante aprendizaje de nuevas tecnologías.
+Soy un estudiante de Ingeniería en Sistemas de Información, apasionado por la programación web y el constante aprendizaje de nuevas tecnologías.
 Soy una persona proactiva, interesada en aprender, y siempre abierto a oportunidades de trabajos y proyectos.
 
 * 📨 Gmail: nazamoreno16@gmail.com
